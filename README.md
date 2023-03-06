@@ -10,6 +10,12 @@ Techincal Details :
       Functionality and BackEnd -JAVA
       Database - Firebase Realtime Database
       Privacy and Security - Firebase
+      
+ Team :
+      
+        Sai kiran Peri
+        Satvika Putcha
+        Sahiti Putcha
 
 Visulas :
   
